@@ -1,0 +1,24 @@
+.nicey {
+  background: url('./../../img/bg.jpg');
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center;
+  .nicey-text {    
+    h1 {
+      color: $secondary-color;
+      font-size: 1.8em;
+      margin: 0;
+      padding: 10em 0;
+      span {
+        display: block;
+        font-size: .7em;
+        padding-top: .4em;
+      }
+      span.nicey-text-logo {
+        font-size: 1em;
+        letter-spacing: 5px;
+        display: inline;
+      }
+    }
+  }
+}
