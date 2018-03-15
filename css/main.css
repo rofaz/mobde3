@@ -429,7 +429,7 @@ ul {
   max-width: 1200px; }
 
 .nicey {
-  background: url("./../../img/bg.jpg");
+  background: url("./../img/bg.jpg");
   background-size: cover;
   background-repeat: repeat;
   background-position: center; }
